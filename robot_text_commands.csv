@@ -1,0 +1,1001 @@
+situation,commande
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. aucune obstruction visible.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. le robot est bloqué.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 1 mètre à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 1 mètre à gauche. le robot est bloqué.,revenir
+Il y a à 1 mètre devant le robot. un obstacle est détecté.,arreter
+Il y a à 5 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres devant le robot. aucune obstruction visible.,revenir
+Il y a proche du robot derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres à gauche. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre devant le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 2 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a proche du robot devant le robot. aucune obstruction visible.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 5 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a proche du robot derrière le robot. le robot est bloqué.,revenir
+Il y a proche du robot à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. le robot est bloqué.,revenir
+Il y a à 5 mètres derrière le robot. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres derrière le robot. un obstacle est détecté.,revenir
+Il y a à 2 mètres à droite. un obstacle est détecté.,revenir
+Il y a à 2 mètres devant le robot. le robot est bloqué.,revenir
+Il y a à 1 mètre derrière le robot. aucune obstruction visible.,revenir
+Il y a à 1 mètre à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à droite. un obstacle est détecté.,revenir
+Il y a proche du robot à droite. aucune obstruction visible.,revenir
+Il y a proche du robot à gauche. le robot est bloqué.,revenir
+Il y a proche du robot à droite. le robot est bloqué.,revenir
+Il y a à 1 mètre à gauche. aucune obstruction visible.,revenir
+Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arreter
+Il y a à 2 mètres à gauche. aucune obstruction visible.,revenir
+Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner
