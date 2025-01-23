@@ -9,9 +9,8 @@ This project is a deep learning-based solution that predicts the action a robot 
 
 ## Project Structure
 - `robot_text_commands.csv`: The dataset generated for training the model.
-- `model_lstm.h5`: Saved LSTM model file.
-- `train_model.py`: Script to train the LSTM model.
-- `predict_action.py`: Script to predict the command based on custom input situations.
+- `lstm_robot_model.h5`: Saved LSTM model file.
+- `Action_Prediction.ipynb`: Notebook to train and predict the LSTM model.
 
 ## Dataset
 The dataset is dynamically generated with the following logic:
@@ -66,4 +65,9 @@ The model is trained for 6 epochs using the Adam optimizer and a categorical cro
 - Incorporate real sensor data for training instead of synthetic data.
 - Extend the model to support additional commands or complex scenarios.
 - Optimize the model for deployment on embedded systems.
+
+---
+
+## **Contact**
+For questions or feedback, feel free to reach out at [marouaourahma@gmail.com].
 
