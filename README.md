@@ -14,13 +14,13 @@ This project is a deep learning-based solution that predicts the action a robot 
 
 ## Dataset
 The dataset is dynamically generated with the following logic:
-1. If obstacles are detected on both the left and right, the robot **returns**.
-2. If an obstacle is detected only on one side (left or right), the robot **turns**.
+1. If obstacles are detected on the left, the robot **turns to the right**.
+2. If obstacles are detected on the right, the robot **turns to the left**.
 3. If an obstacle is detected in front of the robot, it **stops**.
 
 The dataset contains the following fields:
 - `situation`: A textual description of the robot's surroundings.
-- `command`: The action the robot should take (`turn`, `stop`, or `return`).
+- `command`: The action the robot should take (`tourner à gauche`, `stop`, or `tourner à droite`).
 
 ## Model
 The LSTM model has:
@@ -29,7 +29,7 @@ The LSTM model has:
 - **Dense Layers**: Outputs the probability distribution over the three commands.
 
 ## Training
-The model is trained for 6 epochs using the Adam optimizer and a categorical cross-entropy loss function. Early stopping is used to prevent overfitting.
+The model is trained for 4 epochs using the Adam optimizer and a categorical cross-entropy loss function. Early stopping is used to prevent overfitting.
 
 ## Usage
 1. **Clone the Repository**:
@@ -46,12 +46,12 @@ The model is trained for 6 epochs using the Adam optimizer and a categorical cro
 
    Example input:
    ```
-   "Il y a un obstacle à gauche et à droite."
+   "Il y a un obstacle à gauche"
    ```
 
    Output:
    ```
-   Command: return
+   Command: tourner à droite
    ```
 
 ## Files
