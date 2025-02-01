@@ -1,1401 +1,1101 @@
 situation,commande
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un danger est détecté.,arrêter
+Il y a à 5 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un objet est détecté.,arrêter
+Le robot voit proche du robot directement devant. un mur est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un danger est détecté.,arrêter
+Il y a à 2 mètres directement devant. un mur est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un mur est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un objet est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un danger est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un danger est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un mur est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un obstacle est détecté.,arrêter
+Le système détecte proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un danger est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un mur est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un danger est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un objet est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le robot voit à une courte distance devant le robot. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un danger est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un objet est détecté.,arrêter
+Il y a proche du robot directement devant. un mur est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Il y a à une courte distance devant le robot. un obstacle est détecté.,arrêter
+Le robot voit proche du robot directement devant. un obstacle est détecté.,arrêter
+Il y a à 2 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un objet est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un objet est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un objet est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un mur est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un obstacle est détecté.,arrêter
+Le système détecte proche du robot directement devant. un obstacle est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un objet est détecté.,arrêter
+Il y a proche du robot devant le robot. un danger est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un mur est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un objet est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un objet est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un mur est détecté.,arrêter
+Il y a à une courte distance devant le robot. un objet est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un danger est détecté.,arrêter
+Il y a à une courte distance devant le robot. un objet est détecté.,arrêter
 Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
+Le système détecte à une courte distance devant le robot. un mur est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un mur est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un danger est détecté.,arrêter
+Il y a à 1 mètre directement devant. un objet est détecté.,arrêter
+Il y a à 2 mètres devant le robot. un danger est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un mur est détecté.,arrêter
+Il y a à une courte distance directement devant. un objet est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un danger est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Il y a à 2 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le système détecte à une courte distance devant le robot. un mur est détecté.,arrêter
+Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte à une courte distance devant le robot. un danger est détecté.,arrêter
+Le système détecte proche du robot directement devant. un mur est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un danger est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un mur est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un mur est détecté.,arrêter
+Le robot voit proche du robot directement devant. un obstacle est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le robot voit à une courte distance directement devant. un objet est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un mur est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un danger est détecté.,arrêter
+Il y a à une courte distance directement devant. un objet est détecté.,arrêter
+Le système détecte proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Il y a à une courte distance devant le robot. un danger est détecté.,arrêter
+Le robot voit proche du robot directement devant. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un mur est détecté.,arrêter
+Il y a à 5 mètres directement devant. un mur est détecté.,arrêter
 Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un objet est détecté.,arrêter
+Il y a proche du robot directement devant. un obstacle est détecté.,arrêter
+Le système détecte proche du robot directement devant. un mur est détecté.,arrêter
+Il y a à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Il y a à 5 mètres directement devant. un danger est détecté.,arrêter
+Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
+Le système détecte proche du robot directement devant. un mur est détecté.,arrêter
+Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
+Il y a à une courte distance directement devant. un danger est détecté.,arrêter
+Le système détecte proche du robot directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un danger est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un mur est détecté.,arrêter
+Le robot voit proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un obstacle est détecté.,arrêter
+Il y a proche du robot devant le robot. un danger est détecté.,arrêter
+Il y a à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un danger est détecté.,arrêter
+Le robot voit à une courte distance devant le robot. un obstacle est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un danger est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un danger est détecté.,arrêter
+Il y a à 5 mètres directement devant. un danger est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un mur est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un mur est détecté.,arrêter
+Il y a à une courte distance directement devant. un mur est détecté.,arrêter
+Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un danger est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un mur est détecté.,arrêter
+Il y a proche du robot devant le robot. un mur est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un mur est détecté.,arrêter
+Il y a à une courte distance directement devant. un danger est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le système détecte proche du robot directement devant. un objet est détecté.,arrêter
+Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
+Il y a proche du robot directement devant. un mur est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un mur est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un mur est détecté.,arrêter
+Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un obstacle est détecté.,arrêter
+Il y a à une courte distance directement devant. un objet est détecté.,arrêter
+Il y a proche du robot directement devant. un objet est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un danger est détecté.,arrêter
+Le robot voit à une courte distance devant le robot. un obstacle est détecté.,arrêter
+Il y a proche du robot directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un obstacle est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un mur est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Il y a à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un objet est détecté.,arrêter
+Il y a à une courte distance devant le robot. un danger est détecté.,arrêter
+Il y a à une courte distance directement devant. un mur est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un danger est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un objet est détecté.,arrêter
+Il y a à une courte distance devant le robot. un mur est détecté.,arrêter
 Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
+Le système détecte à une courte distance devant le robot. un danger est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un danger est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un mur est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un danger est détecté.,arrêter
 Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le système détecte proche du robot directement devant. un obstacle est détecté.,arrêter
+Il y a proche du robot devant le robot. un danger est détecté.,arrêter
+Le robot voit proche du robot directement devant. un mur est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un danger est détecté.,arrêter
+Le système détecte proche du robot directement devant. un obstacle est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un danger est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un danger est détecté.,arrêter
 Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
+Il y a proche du robot directement devant. un danger est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un mur est détecté.,arrêter
+Il y a à 5 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte proche du robot directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un mur est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Il y a proche du robot devant le robot. un danger est détecté.,arrêter
+Il y a à 1 mètre directement devant. un danger est détecté.,arrêter
+Le robot voit proche du robot directement devant. un danger est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un mur est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un mur est détecté.,arrêter
+Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un mur est détecté.,arrêter
+Le robot voit proche du robot devant le robot. un mur est détecté.,arrêter
+Il y a à 2 mètres directement devant. un danger est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un objet est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à une courte distance directement devant. un danger est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un mur est détecté.,arrêter
+Il y a à 1 mètre directement devant. un mur est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un objet est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le robot voit proche du robot directement devant. un mur est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un obstacle est détecté.,arrêter
+Il y a à 5 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un danger est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un danger est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un obstacle est détecté.,arrêter
 Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un objet est détecté.,arrêter
+Le robot voit à une courte distance devant le robot. un danger est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un mur est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un objet est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un mur est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un danger est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un obstacle est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un objet est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un mur est détecté.,arrêter
+Le robot voit à une courte distance directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un danger est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un danger est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un danger est détecté.,arrêter
+Le robot voit à une courte distance devant le robot. un objet est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un objet est détecté.,arrêter
+Il y a à 5 mètres directement devant. un mur est détecté.,arrêter
+Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 2 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un danger est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un danger est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un objet est détecté.,arrêter
+Il y a à 2 mètres directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un danger est détecté.,arrêter
+Le robot voit proche du robot devant le robot. un danger est détecté.,arrêter
 Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un mur est détecté.,arrêter
+Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un objet est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un mur est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un objet est détecté.,arrêter
+Il y a proche du robot directement devant. un objet est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un mur est détecté.,arrêter
+Il y a à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Il y a à 2 mètres directement devant. un obstacle est détecté.,arrêter
+Le robot voit à 2 mètres devant le robot. un objet est détecté.,arrêter
+Le système détecte proche du robot directement devant. un danger est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un obstacle est détecté.,arrêter
+Il y a proche du robot directement devant. un danger est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un danger est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un danger est détecté.,arrêter
+Il y a à 2 mètres devant le robot. un danger est détecté.,arrêter
+Il y a à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Il y a à 2 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un obstacle est détecté.,arrêter
+Le robot voit à une courte distance directement devant. un mur est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un mur est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un mur est détecté.,arrêter
+Il y a à 1 mètre directement devant. un objet est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un objet est détecté.,arrêter
+Le système détecte proche du robot devant le robot. un obstacle est détecté.,arrêter
+Il y a proche du robot directement devant. un mur est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte proche du robot devant le robot. un obstacle est détecté.,arrêter
+Il y a à 1 mètre directement devant. un mur est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un mur est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un obstacle est détecté.,arrêter
 Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un mur est détecté.,arrêter
+Il y a à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le système détecte proche du robot directement devant. un obstacle est détecté.,arrêter
+Le robot voit à une courte distance devant le robot. un mur est détecté.,arrêter
+Il y a à 1 mètre directement devant. un mur est détecté.,arrêter
+Il y a à 2 mètres directement devant. un danger est détecté.,arrêter
+Il y a à 5 mètres directement devant. un danger est détecté.,arrêter
+Le système détecte proche du robot directement devant. un mur est détecté.,arrêter
+Il y a à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Il y a à une courte distance directement devant. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un objet est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un obstacle est détecté.,arrêter
 Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un mur est détecté.,arrêter
+Il y a à 5 mètres directement devant. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un obstacle est détecté.,arrêter
+Il y a à 5 mètres directement devant. un mur est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un objet est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un danger est détecté.,arrêter
+Le robot voit proche du robot directement devant. un objet est détecté.,arrêter
+Il y a à une courte distance devant le robot. un danger est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un objet est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un danger est détecté.,arrêter
+Le capteur signale à 2 mètres devant le robot. un mur est détecté.,arrêter
+Le robot voit à 5 mètres directement devant. un mur est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un objet est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un mur est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un mur est détecté.,arrêter
+Il y a à 5 mètres devant le robot. un danger est détecté.,arrêter
 Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le système détecte à 2 mètres directement devant. un mur est détecté.,arrêter
+Le robot voit à une courte distance devant le robot. un danger est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un objet est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres directement devant. un objet est détecté.,arrêter
+Le robot voit proche du robot devant le robot. un mur est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un obstacle est détecté.,arrêter
+Il y a proche du robot devant le robot. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Il y a proche du robot directement devant. un objet est détecté.,arrêter
+Le robot voit proche du robot directement devant. un danger est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un obstacle est détecté.,arrêter
+Le système détecte à 1 mètre directement devant. un danger est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un mur est détecté.,arrêter
+Le robot voit à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un objet est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un mur est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un mur est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un objet est détecté.,arrêter
+Le système détecte proche du robot devant le robot. un objet est détecté.,arrêter
+Le robot voit proche du robot directement devant. un objet est détecté.,arrêter
+Il y a à 5 mètres directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 5 mètres devant le robot. un danger est détecté.,arrêter
+Il y a à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le système détecte proche du robot directement devant. un obstacle est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un danger est détecté.,arrêter
+Il y a à une courte distance directement devant. un danger est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un objet est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un obstacle est détecté.,arrêter
 Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un mur est détecté.,arrêter
+Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
+Le robot voit proche du robot directement devant. un mur est détecté.,arrêter
 Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le capteur signale proche du robot directement devant. un mur est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un danger est détecté.,arrêter
+Il y a à 5 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale à 1 mètre devant le robot. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un danger est détecté.,arrêter
+Le robot voit à 2 mètres directement devant. un obstacle est détecté.,arrêter
+Le capteur signale proche du robot devant le robot. un danger est détecté.,arrêter
+Le capteur signale à 1 mètre directement devant. un objet est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un danger est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un danger est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un danger est détecté.,arrêter
 Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un obstacle est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un mur est détecté.,arrêter
-Il y a proche du robot devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 1 mètre devant le robot. un obstacle est détecté.,arrêter
-Il y a proche du robot devant le robot. un objet est détecté.,arrêter
-Il y a proche du robot devant le robot. un obstacle est détecté.,arrêter
-Il y a à 5 mètres devant le robot. un objet est détecté.,arrêter
-Il y a à 2 mètres devant le robot. un mur est détecté.,arrêter
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le capteur signale à une courte distance directement devant. un danger est détecté.,arrêter
+Le système détecte proche du robot devant le robot. un obstacle est détecté.,arrêter
+Il y a à 5 mètres directement devant. un objet est détecté.,arrêter
+Le robot voit à 1 mètre directement devant. un mur est détecté.,arrêter
+Le système détecte à une courte distance directement devant. un obstacle est détecté.,arrêter
+Le système détecte à 5 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale à 2 mètres directement devant. un objet est détecté.,arrêter
+Le capteur signale à une courte distance directement devant. un objet est détecté.,arrêter
+Le système détecte à 5 mètres devant le robot. un mur est détecté.,arrêter
+Il y a à 1 mètre directement devant. un objet est détecté.,arrêter
+Le robot voit à 5 mètres devant le robot. un obstacle est détecté.,arrêter
+Le robot voit proche du robot directement devant. un danger est détecté.,arrêter
+Le capteur signale à une courte distance devant le robot. un mur est détecté.,arrêter
+Il y a à une courte distance directement devant. un mur est détecté.,arrêter
+Le système détecte proche du robot à droite. un danger est détecté.,tourner à gauche
+Il y a à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un mur est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à 2 mètres à droite. un mur est détecté.,tourner à gauche
 Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le système détecte proche du robot à droite. un mur est détecté.,tourner à gauche
+Il y a à une courte distance à droite. un danger est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un mur est détecté.,tourner à gauche
+Il y a à 1 mètre sur le côté droit. un objet est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Il y a à 1 mètre sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un objet est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
 Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
 Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
 Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 1 mètre sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le robot voit proche du robot à droite. un mur est détecté.,tourner à gauche
+Le système détecte à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à une courte distance à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Il y a à 2 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit proche du robot à droite. un obstacle est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un danger est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un mur est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un obstacle est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à 1 mètre sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un objet est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un mur est détecté.,tourner à gauche
+Le robot voit proche du robot sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un mur est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le système détecte proche du robot à droite. un danger est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un danger est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un mur est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un danger est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un danger est détecté.,tourner à gauche
 Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Il y a à 1 mètre sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit proche du robot à droite. un mur est détecté.,tourner à gauche
+Le robot voit proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le robot voit à une courte distance à droite. un mur est détecté.,tourner à gauche
 Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
 Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un mur est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un objet est détecté.,tourner à gauche
+Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un mur est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à une courte distance à droite. un mur est détecté.,tourner à gauche
+Il y a à 5 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Il y a à une courte distance à droite. un mur est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à une courte distance à droite. un mur est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le système détecte à 1 mètre sur le côté droit. un danger est détecté.,tourner à gauche
 Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le système détecte proche du robot à droite. un mur est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 1 mètre sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
 Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Il y a à 2 mètres à droite. un danger est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un mur est détecté.,tourner à gauche
+Il y a à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Il y a à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un obstacle est détecté.,tourner à gauche
+Il y a à 5 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le système détecte proche du robot à droite. un danger est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à une courte distance à droite. un danger est détecté.,tourner à gauche
+Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 1 mètre sur le côté droit. un danger est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit proche du robot à droite. un danger est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un mur est détecté.,tourner à gauche
+Le robot voit à 1 mètre sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit proche du robot à droite. un objet est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
 Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un mur est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte proche du robot à droite. un obstacle est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un danger est détecté.,tourner à gauche
+Il y a à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 1 mètre sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à 1 mètre sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à 1 mètre sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Il y a à 1 mètre sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un danger est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un mur est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à une courte distance à droite. un mur est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le robot voit proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à 2 mètres à droite. un mur est détecté.,tourner à gauche
+Le système détecte à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 1 mètre sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Il y a à 1 mètre sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le système détecte à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un obstacle est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à une courte distance à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un mur est détecté.,tourner à gauche
+Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Il y a à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à 1 mètre sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un danger est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit proche du robot sur le côté droit. un mur est détecté.,tourner à gauche
+Il y a à 1 mètre sur le côté droit. un mur est détecté.,tourner à gauche
+Il y a proche du robot sur le côté droit. un danger est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 2 mètres à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Il y a à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Il y a à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le système détecte à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
 Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Il y a à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le système détecte à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un objet est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un danger est détecté.,tourner à gauche
+Il y a à une courte distance à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 1 mètre à droite. un mur est détecté.,tourner à gauche
+Le robot voit proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte proche du robot à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 2 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à une courte distance à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 1 mètre à droite. un danger est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à 5 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le capteur signale proche du robot à droite. un objet est détecté.,tourner à gauche
+Le robot voit à une courte distance sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un objet est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un danger est détecté.,tourner à gauche
+Le capteur signale à 2 mètres à droite. un objet est détecté.,tourner à gauche
+Le robot voit à 2 mètres à droite. un danger est détecté.,tourner à gauche
 Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
+Le capteur signale proche du robot sur le côté droit. un obstacle est détecté.,tourner à gauche
+Il y a à 5 mètres sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à une courte distance à droite. un mur est détecté.,tourner à gauche
+Il y a à 1 mètre sur le côté droit. un objet est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un objet est détecté.,tourner à gauche
+Le système détecte à 1 mètre sur le côté droit. un objet est détecté.,tourner à gauche
 Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
+Le système détecte à 5 mètres à droite. un mur est détecté.,tourner à gauche
+Le système détecte à une courte distance à droite. un obstacle est détecté.,tourner à gauche
+Il y a à 2 mètres sur le côté droit. un objet est détecté.,tourner à gauche
+Le robot voit à une courte distance à droite. un mur est détecté.,tourner à gauche
+Le système détecte proche du robot sur le côté droit. un danger est détecté.,tourner à gauche
+Il y a à une courte distance sur le côté droit. un mur est détecté.,tourner à gauche
+Le robot voit à 5 mètres à droite. un danger est détecté.,tourner à gauche
+Le capteur signale à 5 mètres sur le côté droit. un obstacle est détecté.,tourner à gauche
+Le capteur signale à une courte distance à droite. un obstacle est détecté.,tourner à gauche
 Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
 Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un mur est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a à 5 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un objet est détecté.,tourner à gauche
-Il y a proche du robot à droite. un objet est détecté.,tourner à gauche
-Il y a à 1 mètre à droite. un obstacle est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à droite. un mur est détecté.,tourner à gauche
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un objet est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 5 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
 Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
 Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un danger est détecté.,tourner à droite
 Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit proche du robot à gauche. un objet est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Le capteur signale proche du robot à gauche. un mur est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
 Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à une courte distance sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Il y a à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit proche du robot à gauche. un objet est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Le capteur signale proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le capteur signale proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Le capteur signale proche du robot à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Il y a à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un danger est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale proche du robot à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à une courte distance sur le côté gauche. un mur est détecté.,tourner à droite
+Le système détecte à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Le robot voit à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Il y a à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Le capteur signale proche du robot à gauche. un mur est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
 Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à une courte distance sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 2 mètres à gauche. un danger est détecté.,tourner à droite
 Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a proche du robot à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un obstacle est détecté.,tourner à droite
 Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un objet est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le robot voit à 5 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un danger est détecté.,tourner à droite
 Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
 Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un objet est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 5 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
 Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un objet est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un danger est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un mur est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale proche du robot à gauche. un objet est détecté.,tourner à droite
+Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit proche du robot à gauche. un objet est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un danger est détecté.,tourner à droite
+Il y a à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Le robot voit à 2 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un danger est détecté.,tourner à droite
+Le robot voit proche du robot à gauche. un obstacle est détecté.,tourner à droite
+Il y a à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale proche du robot à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un objet est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à une courte distance sur le côté gauche. un danger est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un mur est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à une courte distance à gauche. un objet est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
+Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale proche du robot à gauche. un mur est détecté.,tourner à droite
+Le système détecte à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à 2 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Il y a à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Le robot voit proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le système détecte à 2 mètres à gauche. un objet est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
 Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 2 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à 2 mètres à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le robot voit à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 5 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte proche du robot à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le robot voit à 2 mètres sur le côté gauche. un danger est détecté.,tourner à droite
+Le robot voit proche du robot à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit proche du robot à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a proche du robot à gauche. un danger est détecté.,tourner à droite
+Le robot voit à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Le système détecte proche du robot sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
 Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un objet est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un objet est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 5 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 2 mètres à gauche. un obstacle est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un mur est détecté.,tourner à droite
-Il y a proche du robot à gauche. un objet est détecté.,tourner à droite
-Il y a à 1 mètre à gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a proche du robot à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à une courte distance à gauche. un danger est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un mur est détecté.,tourner à droite
+Le système détecte à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le robot voit à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un danger est détecté.,tourner à droite
+Le système détecte à 1 mètre à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit proche du robot à gauche. un danger est détecté.,tourner à droite
+Le robot voit à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le système détecte à une courte distance à gauche. un objet est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un obstacle est détecté.,tourner à droite
+Le capteur signale proche du robot sur le côté gauche. un objet est détecté.,tourner à droite
+Le robot voit à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a à 2 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 1 mètre à gauche. un danger est détecté.,tourner à droite
+Le capteur signale à 5 mètres à gauche. un objet est détecté.,tourner à droite
+Le capteur signale proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
+Le système détecte à une courte distance sur le côté gauche. un objet est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a à 1 mètre sur le côté gauche. un danger est détecté.,tourner à droite
+Il y a à une courte distance à gauche. un mur est détecté.,tourner à droite
+Le capteur signale à 1 mètre sur le côté gauche. un mur est détecté.,tourner à droite
+Il y a à 5 mètres sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le robot voit à une courte distance sur le côté gauche. un obstacle est détecté.,tourner à droite
+Le système détecte à 5 mètres à gauche. un mur est détecté.,tourner à droite
+Il y a proche du robot sur le côté gauche. un danger est détecté.,tourner à droite
