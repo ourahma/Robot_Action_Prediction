@@ -1,50 +1,41 @@
-# Robot Action Prediction
+# Deep Learning et NLP pour la Robotique
 
-This project is a deep learning-based solution that predicts the action a robot should take based on its surroundings and obstacles. The model uses an LSTM (Long Short-Term Memory) network to classify situations into one of three possible commands: **turn right**, **turn left**,**stop**.
+## Introduction
+Dans le domaine de la robotique, le **Deep Learning** est de plus en plus utilisé pour améliorer la perception, la prise de décision et l'interaction des robots avec leur environnement. Grâce aux avancées en **Traitement du Langage Naturel (NLP)**, il est possible d’aller au-delà des simples capteurs et d’intégrer une compréhension du langage pour guider les actions des robots.
 
-## Features
-- **Dynamic Dataset Generation**: Automatically generates a textual dataset describing situations based on distances, positions, and obstacles.
-- **LSTM Model**: Trained on the dataset to classify commands with high accuracy.
-- **Custom Rules**: Applies predefined rules for generating the dataset to simulate real-world robot decision-making scenarios.
+## Objectif du projet
+L’objectif principal est de développer un modèle capable de classifier les commandes en fonction d’une situation décrite en texte. Les actions possibles sont :
+- **Tourner à gauche**
+- **Tourner à droite**
+- **S’arrêter**
 
-## Project Structure
-- `robot_text_commands.csv`: The dataset generated for training the model.
-- `lstm_robot_model.h5`: Saved LSTM model file.
-- `Action_Prediction.ipynb`: Notebook to train and predict the LSTM model.
+## Architecture du projet
+### 1. Génération du Dataset
+Étant donné qu’aucun dataset public ne correspondait exactement à notre besoin, nous avons généré un dataset contenant des descriptions textuelles de situations et les actions correspondantes. Chaque situation est construite à partir de combinaisons de :
+- **Distances** : "à 10 centimètres", "à 20 centimètres", "proche du robot", etc.
+- **Positions** : "devant le robot", "à gauche", "à droite", etc.
+- **Obstacles détectés** : "un obstacle est détecté", "un mur est détecté", etc.
 
-## Dataset
-The dataset is dynamically generated with the following logic:
-1. If obstacles are detected on the left, the robot **turns to the right**.
-2. If obstacles are detected on the right, the robot **turns to the left**.
-3. If an obstacle is detected in front of the robot, it **stops**.
+### 2. Modélisation avec un LSTM
+Nous avons utilisé un modèle de Réseau de Neurones Récurrent (LSTM) pour analyser ces descriptions textuelles et prédire la commande correspondante. Le modèle est entraîné avec une représentation vectorielle des phrases, en utilisant **la tokenization** pour l'encodage de la dataset.
 
-The dataset contains the following fields:
-- `situation`: A textual description of the robot's surroundings.
-- `command`: The action the robot should take (`tourner à gauche`, `stop`, or `tourner à droite`).
+### 4. Sauvegarde et Test du Modèle
+Après l'entraînement, le modèle est sauvegardé afin de pouvoir être réutilisé pour prédire les actions à partir de nouvelles descriptions textuelles.
 
-## Model
-The LSTM model has:
-- **Input Layer**: Encodes the textual input using tokenization and padding.
-- **LSTM Layer**: Captures the temporal relationships in the textual data.
-- **Dense Layers**: Outputs the probability distribution over the three commands.
+Des améliorations futures pourraient inclure :
+- L’intégration d’un **modèle plus avancé** (comme BERT) pour améliorer la compréhension du langage.
+- L’application sur un **robot physique**, en complément des capteurs classiques.
 
-## Training
-The model is trained for 4 epochs using the Adam optimizer and a categorical cross-entropy loss function. Early stopping is used to prevent overfitting.
+## Exécution du projet
+### Prérequis
+Assurez-vous d'avoir installé les bibliothèques suivantes :
+```bash
+pip install pandas numpy tensorflow scikit-learn
+```
 
-## Usage
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/ourahma/Robot_Action_Prediction.git
-   cd Robot_Action_Prediction
-   ```
+### Exécution du modèle
 
-2. **Install Dependencies**:
-   Ensure you have Python 3 and the necessary libraries:
-   ```bash
-   pip install tensorflow pandas numpy
-   ```
-
-   Example input:
+   Exemple input:
    ```
    "Il y a un obstacle à gauche"
    ```
@@ -54,20 +45,12 @@ The model is trained for 4 epochs using the Adam optimizer and a categorical cro
    Command: tourner à droite
    ```
 
-## Files
-- `Action_Prediction.ipynb`: Contains the code to train the LSTM model also provides a function to predict commands based on input situations.
-- `robot_text_commands.csv`: The generated dataset.
-- `lstm_robot_model.h5`: The saved trained model.
+## Auteurs
 
----
-
-### Future Improvements
-- Incorporate real sensor data for training instead of synthetic data.
-- Extend the model to support additional commands or complex scenarios.
-- Optimize the model for deployment on embedded systems.
-
----
-
-## **Contact**
-For questions or feedback, feel free to reach out at [marouaourahma@gmail.com].
+- GitHub : https://github.com/ourahma/Robot_Action_Prediction
+- Contact : marouaourahma@gmail.com
+- Linkedin: www.linkedin.com/in/maroua-ourahma-293426235
+  
+## Licence
+Ce projet est sous licence MIT.
 
