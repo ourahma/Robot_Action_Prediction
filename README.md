@@ -1,6 +1,6 @@
 # Robot Action Prediction
 
-This project is a deep learning-based solution that predicts the action a robot should take based on its surroundings and obstacles. The model uses an LSTM (Long Short-Term Memory) network to classify situations into one of three possible commands: **turn**, **stop**, or **return**.
+This project is a deep learning-based solution that predicts the action a robot should take based on its surroundings and obstacles. The model uses an LSTM (Long Short-Term Memory) network to classify situations into one of three possible commands: **turn right**, **turn left**,**stop**.
 
 ## Features
 - **Dynamic Dataset Generation**: Automatically generates a textual dataset describing situations based on distances, positions, and obstacles.
