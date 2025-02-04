@@ -51,6 +51,3 @@ pip install pandas numpy tensorflow scikit-learn
 - Contact : marouaourahma@gmail.com
 - Linkedin: www.linkedin.com/in/maroua-ourahma-293426235
   
-## Licence
-Ce projet est sous licence MIT.
-
