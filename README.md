@@ -1,8 +1,5 @@
 # Deep Learning et NLP pour la Robotique
 
-## Introduction
-Dans le domaine de la robotique, le **Deep Learning** est de plus en plus utilisé pour améliorer la perception, la prise de décision et l'interaction des robots avec leur environnement. Grâce aux avancées en **Traitement du Langage Naturel (NLP)**, il est possible d’aller au-delà des simples capteurs et d’intégrer une compréhension du langage pour guider les actions des robots.
-
 ## Objectif du projet
 L’objectif principal est de développer un modèle capable de classifier les commandes en fonction d’une situation décrite en texte. Les actions possibles sont :
 - **Tourner à gauche**
